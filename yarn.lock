@@ -284,7 +284,7 @@
 
 "@commitlint/config-conventional@^15.0.0":
   version "15.0.0"
-  resolved "https://registry.npmmirror.com/@commitlint/config-conventional/download/@commitlint/config-conventional-15.0.0.tgz?cache=0&sync_timestamp=1637131947104&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40commitlint%2Fconfig-conventional%2Fdownload%2F%40commitlint%2Fconfig-conventional-15.0.0.tgz#3bf1adf319e3b431de12ba82dc399524038b2d8f"
+  resolved "https://registry.npmmirror.com/@commitlint/config-conventional/download/@commitlint/config-conventional-15.0.0.tgz#3bf1adf319e3b431de12ba82dc399524038b2d8f"
   integrity sha512-eZBRL8Lk3hMNHp1wUMYj0qrZQEsST1ai7KHR8J1IDD9aHgT7L2giciibuQ+Og7vxVhR5WtYDvh9xirXFVPaSkQ==
   dependencies:
     conventional-changelog-conventionalcommits "^4.3.1"
@@ -2222,7 +2222,7 @@ lines-and-columns@^1.1.6:
 
 lint-staged@^12.1.2:
   version "12.1.2"
-  resolved "https://registry.npmmirror.com/lint-staged/download/lint-staged-12.1.2.tgz?cache=0&sync_timestamp=1637566842735&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Flint-staged%2Fdownload%2Flint-staged-12.1.2.tgz#90c571927e1371fc133e720671dd7989eab53f74"
+  resolved "https://registry.npmmirror.com/lint-staged/download/lint-staged-12.1.2.tgz#90c571927e1371fc133e720671dd7989eab53f74"
   integrity sha512-bSMcQVqMW98HLLLR2c2tZ+vnDCnx4fd+0QJBQgN/4XkdspGRPc8DGp7UuOEBe1ApCfJ+wXXumYnJmU+wDo7j9A==
   dependencies:
     cli-truncate "^3.1.0"
@@ -3301,7 +3301,7 @@ stylelint-config-recommended@^6.0.0:
 
 stylelint-config-standard@^24.0.0:
   version "24.0.0"
-  resolved "https://registry.npmmirror.com/stylelint-config-standard/download/stylelint-config-standard-24.0.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fstylelint-config-standard%2Fdownload%2Fstylelint-config-standard-24.0.0.tgz#6823f207ab997ae0b641f9a636d007cc44d77541"
+  resolved "https://registry.npmmirror.com/stylelint-config-standard/download/stylelint-config-standard-24.0.0.tgz#6823f207ab997ae0b641f9a636d007cc44d77541"
   integrity sha512-+RtU7fbNT+VlNbdXJvnjc3USNPZRiRVp/d2DxOF/vBDDTi0kH5RX2Ny6errdtZJH3boO+bmqIYEllEmok4jiuw==
   dependencies:
     stylelint-config-recommended "^6.0.0"
@@ -3316,7 +3316,7 @@ stylelint-order@^5.0.0:
 
 stylelint@^14.1.0:
   version "14.1.0"
-  resolved "https://registry.npmmirror.com/stylelint/download/stylelint-14.1.0.tgz?cache=0&sync_timestamp=1636910952163&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fstylelint%2Fdownload%2Fstylelint-14.1.0.tgz#8cefb64df6158b30f678c2d93a7052e2c1d8235b"
+  resolved "https://registry.npmmirror.com/stylelint/download/stylelint-14.1.0.tgz?cache=0&sync_timestamp=1636911480163&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fstylelint%2Fdownload%2Fstylelint-14.1.0.tgz#8cefb64df6158b30f678c2d93a7052e2c1d8235b"
   integrity sha512-IedkssuNVA11+v++2PIV2OHOU5A3SfRcXVi56vZVSsMhGrgtwmmit69jeM+08/Tun5DTBe7BuH1Zp1mMLmtKLA==
   dependencies:
     balanced-match "^2.0.0"

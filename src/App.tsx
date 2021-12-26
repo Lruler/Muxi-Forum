@@ -1,11 +1,16 @@
-import './App.css'
-
-import { useState } from 'react'
-
+import { useState, useEffect } from 'react'
 import logo from './logo.svg'
+import './App.css'
 
 function App() {
     const [count, setCount] = useState(0)
+    console.log('浏览器渲染完毕')
+    useEffect(() => {
+        console.log('调用effect咯')
+        return () => {
+            console.log('清楚回调咯')
+        }
+    })
 
     return (
         <div className="App">
